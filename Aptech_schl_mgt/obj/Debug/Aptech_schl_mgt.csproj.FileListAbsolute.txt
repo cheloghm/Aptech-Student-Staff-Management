@@ -1,0 +1,49 @@
+c:\users\graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\bin\Debug\Aptech_schl_mgt.exe.config
+c:\users\graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\bin\Debug\Aptech_schl_mgt.exe
+c:\users\graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\bin\Debug\Aptech_schl_mgt.pdb
+c:\users\graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.csprojResolveAssemblyReference.cache
+c:\users\graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.Form1.resources
+c:\users\graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.Properties.Resources.resources
+c:\users\graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.csproj.GenerateResource.Cache
+c:\users\graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.exe
+c:\users\graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.pdb
+c:\users\graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.Main.resources
+c:\users\graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.sign_in_form.resources
+c:\users\graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.sign_out_form.resources
+C:\Users\Graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.admin_log_form.resources
+C:\Users\Graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.admin_form.resources
+C:\Users\Graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.attendance.resources
+C:\Users\Graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.staff.resources
+C:\Users\Graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.students.resources
+C:\Users\Graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.visitors.resources
+C:\Users\Graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.visitors_db.resources
+C:\Users\Graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.staff_sign_in.resources
+C:\Users\Graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.staff_sign_out_form.resources
+C:\Users\Graham\documents\visual studio 2015\Projects\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.staff_attend_form.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\bin\Debug\Aptech_schl_mgt.exe.config
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\bin\Debug\Aptech_schl_mgt.exe.manifest
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\bin\Debug\Aptech_schl_mgt.application
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\bin\Debug\Aptech_schl_mgt.exe
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\bin\Debug\Aptech_schl_mgt.pdb
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.csprojAssemblyReference.cache
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.admin_form.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.admin_log_form.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.attendance.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.Form1.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.Main.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.Properties.Resources.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.sign_in_form.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.sign_out_form.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.staff.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.staff_attend_form.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.staff_sign_in.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.staff_sign_out_form.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.students.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.visitors.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.visitors_db.resources
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.csproj.GenerateResource.cache
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.csproj.CoreCompileInputs.cache
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.exe.manifest
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.application
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.exe
+C:\Users\CHELOGHM\Documents\Aptech_schl_mgt\Aptech_schl_mgt\obj\Debug\Aptech_schl_mgt.pdb
